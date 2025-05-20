@@ -1,3 +1,16 @@
+<h1 align="center">Hola, Soy Oscar Uzcategui Castro  </h1> 
+<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
+<h2>Sobre mi </h2>
+
+
+<p align="left">
+🎓 Ingeniero en Electronica Mencion Automatizacion y Control
+
+💻 Experiencia en Ciencia de datos 
+
+🤖Experiencia en Robotica Y mecatronica
+
+📫 Contacto: **uzcateguioscar2003@gmail.com**
 
 <hr>
 
@@ -59,19 +72,16 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"> 
 </td>
 
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img height=80px src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> 
-</td>
-</tr>
+
 
 </tbody>
 </table>
@@ -82,23 +92,25 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg"> 
 </td>
 
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img height=80px src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> 
 </td>
 
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> 
+</td>
+</tr>
 </tr>
 
 </tbody>
 </table>
 
 ## Redes Sociales:
-
-- **Ciencia de Datos**
 
 <table>
 <tbody>
