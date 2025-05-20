@@ -7,12 +7,12 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
 
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </td>
 
@@ -68,6 +68,9 @@
 <img height=80px src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21.svg"> 
 </td>
 
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> 
+</td>
 </tr>
 
 </tbody>
