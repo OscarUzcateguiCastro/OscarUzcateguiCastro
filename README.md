@@ -12,6 +12,10 @@
 </td>
 
 <td align="center" width="50%">
+<img height=60px src="file:///C:/Users/Jose/Downloads/kaggle-1.svg"> 
+</td>
+
+<td align="center" width="50%">
 <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </td>
 
