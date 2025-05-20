@@ -1,9 +1,9 @@
 
 <hr>
 
-## My Skills :computer:
+## Mis Habilidades:
 
-- **Programming Languages**
+- **Lenguaje de Programación**
 <table>
 <tbody>
  <tr>
@@ -22,9 +22,9 @@
 
 
 
-## Currently Learning :beginner:
+## Mi aprendizaje:
 
-- **Data Science**
+- **Ciencia de Datos**
 
 <table>
 <tbody>
